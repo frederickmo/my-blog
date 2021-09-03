@@ -1,5 +1,5 @@
 ---
 title: Categories
 type: "categories"
-# date: 2021-09-03 18:15:16
+cover: ../img/kristyna-jirova.jpg
 ---
