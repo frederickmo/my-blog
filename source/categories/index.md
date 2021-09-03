@@ -1,5 +1,5 @@
 ---
 title: Categories
 type: "categories"
-cover: img/kristyna-jirova.jpg
+cover: ../img/kristyna-jirova.jpg
 ---
