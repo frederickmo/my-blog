@@ -9,4 +9,4 @@ cover: img/kristyna-jirova.jpg
 
 放一个珈乐在这(¯﹃¯)
 
-![珈乐Carol](A-test-post/Carol.jpg)
+![珈乐Carol](Carol.jpg)
