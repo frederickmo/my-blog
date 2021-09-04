@@ -5,4 +5,8 @@ tags: ["Daily"]
 categories: Daily Share
 cover: img/kristyna-jirova.jpg
 ---
-A test post
+测试博文
+
+放一个珈乐在这(¯﹃¯)
+
+![珈乐Carol](A-test-post/Carol.jpg)
