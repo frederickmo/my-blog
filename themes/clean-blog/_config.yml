@@ -8,7 +8,12 @@ menu:
   Github:
     url: https://github.com/frederickmo
     icon: github
-
+  Weibo:
+    url: https://weibo.com/u/7463470454
+    icon: weibo
+  Instagram:
+    url: https://www.instagram.com/frederickm0428
+    icon: instagram
 # Title on top left of menu. Leave empty to use main blog title
 menu_title: Frederick's Blog
 
@@ -38,10 +43,12 @@ addthis:
 favicon:
 
 # Social Accounts
-twitter_url:
-twitter_handle:
-facebook_url:
+# twitter_url:
+# twitter_handle:
+# facebook_url:
 github_url: https://github.com/frederickmo
-gitlab_url:
-linkedin_url:
+# gitlab_url:
+# linkedin_url:
+# weibo_url: https://weibo.com/u/7463470454
+# instagram_url: https://www.instagram.com/frederickm0428
 mailto: frederickmo2001@gmail.com
