@@ -40,7 +40,12 @@ google_analytics:
 addthis:
 
 # set your own favicon
-favicon:
+favicon: /img/favicon.ico
+  #medium: /images/favicon-32x32-next.png
+  # medium: /img/favicon_medium.ico
+  # apple_touch_icon: /img/apple-touch-icon.png
+  # safari_pinned_tab: /img/logo.svg
+  #android_manifest: /manifest.json
 
 # Social Accounts
 # twitter_url:
